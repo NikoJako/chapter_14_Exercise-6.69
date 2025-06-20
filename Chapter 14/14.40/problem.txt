@@ -1,0 +1,3 @@
+Modify the programs given in Example 14.13 (future value of monthly deposits) so that they accept a command
+line parameter indicating the frequency of compounding. The command line parameter should be a single
+character, selected from A, S, Q, M, D or C (either upper- or lowercase), as explained in the example.
